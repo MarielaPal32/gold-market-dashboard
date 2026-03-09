@@ -36,5 +36,6 @@ This project was developed **in collaboration with Rossana De Rose**, focusing o
 The dashboard is available as a `.pbix` file and can be opened using **Power BI Desktop**.
 
 ## Preview
+<img width="1162" height="652" alt="risk" src="https://github.com/user-attachments/assets/c77b3152-679d-412e-87e3-f45caaad9073" />
+<img width="1163" height="649" alt="evolution" src="https://github.com/user-attachments/assets/3e157747-aaad-4396-89ee-a00621d3c94d" />
 
-(Add a screenshot of the dashboard here)
